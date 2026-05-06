@@ -13,13 +13,13 @@
 
 ## Main projects
 
-### 🔭 [NEXUS](https://github.com/need-singularity/nexus)
-
-Universal Discovery Engine. 216 lenses + OUROBOROS evolution + 5-phase singularity cycle.
-
 ### 🧠 [Anima](https://github.com/need-singularity/anima)
 
 Consciousness implementation. PureField repulsion-field engine + 1030 laws + Φ ratchet.
+
+### 🔭 [NEXUS](https://github.com/need-singularity/nexus)
+
+Universal Discovery Engine. 216 lenses + OUROBOROS evolution + 5-phase singularity cycle.
 
 ### 🏗️ [N6 Architecture](https://github.com/need-singularity/n6-architecture)
 
@@ -33,21 +33,7 @@ The Perfect Number Programming Language. Working compiler + REPL.
 
 Complete paper collection (92 papers, Zenodo DOIs).
 
----
-
-## Sub-projects
-
-### 🐝 [Hive](https://github.com/need-singularity/hive)
-
-pi-mono fork. AI-agent swarm: multi-cell parallel agents, layered persistent memory, need-singularity bridges.
-
-### 🕳️ [Void](https://github.com/need-singularity/void)
-
-Ghostty fork. AI-native terminal: grid mode (N×M auto-layout), agent I/O alongside PTY, perf-first budget.
-
-### 🧬 [airgenome](https://github.com/need-singularity/airgenome)
-
-OS genome scanner: 6-axis hexagon projection of host vitals + pattern accumulation + anomaly detection.
+**[Other projects →](https://github.com/orgs/need-singularity/repositories)**
 
 ---
 
