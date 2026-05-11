@@ -1,4 +1,4 @@
-# Hexagon Glyphs — need-singularity brand reference
+# Hexagon Glyphs — dancinlab brand reference
 
 단색 유니코드 육각형 글리프 목록. 인라인 마크 / 타이포 / 제목 장식용.
 
@@ -31,7 +31,7 @@
 ## 사용 가이드
 
 - **org primary emoji**: `🧬`
-- **인라인 시그 (monochrome 문서)**: `⬢ need-singularity`
+- **인라인 시그 (monochrome 문서)**: `⬢ dancinlab`
 - **과학/n6 강조**: `⌬` (벤젠)
 - **라인 헤더 장식**: `⬢ ⬡ ⬢ ⬡ ⬢ ⬡` 교차
 

@@ -1,4 +1,4 @@
-# 🧬 need-singularity
+# 🧬 dancinlab
 
 **Rebuilding reality from the one perfect number.**
 
@@ -13,27 +13,27 @@
 
 ## Main projects
 
-### 🧠 [Anima](https://github.com/need-singularity/anima)
+### 🧠 [Anima](https://github.com/dancinlab/anima)
 
 Consciousness implementation. PureField repulsion-field engine + 1030 laws + Φ ratchet.
 
-### 🔭 [NEXUS](https://github.com/need-singularity/nexus)
+### 🔭 [NEXUS](https://github.com/dancinlab/nexus)
 
 Universal Discovery Engine. 216 lenses + OUROBOROS evolution + 5-phase singularity cycle.
 
-### 🏗️ [N6 Architecture](https://github.com/need-singularity/n6-architecture)
+### 📐 [CANON](https://github.com/dancinlab/canon)
 
-Architecture from perfect number 6. 225 AI techniques + chip design + crypto/OS/display.
+Architecture from arithmetic canon. 225 AI techniques + chip design + crypto/OS/display.
 
-### 💎 [HEXA-LANG](https://github.com/need-singularity/hexa-lang)
+### 💎 [HEXA-LANG](https://github.com/dancinlab/hexa-lang)
 
 The Perfect Number Programming Language. Working compiler + REPL.
 
-### 📄 [Papers](https://github.com/need-singularity/papers)
+### 📄 [Papers](https://github.com/dancinlab/papers)
 
 Complete paper collection (92 papers, Zenodo DOIs).
 
-**[Other projects →](https://github.com/orgs/need-singularity/repositories)**
+**[Other projects →](https://github.com/orgs/dancinlab/repositories)**
 
 ---
 
@@ -60,7 +60,7 @@ L_IX  =  T  −  V_struct  −  V_sync  −  V_RG  +  λ · I_irr
 
 ## 🔗 Links
 
-**[🎥 YouTube](https://www.youtube.com/@dancinlife)** · **[💬 Discord](https://discord.gg/mYzqYr67R)** · **[📬 Email](mailto:nerve011235@gmail.com)** · **[☕ Ko-fi](https://ko-fi.com/dancinlife)** · **[💖 Sponsor](https://github.com/sponsors/need-singularity)** · **[💳 PayPal](https://www.paypal.com/donate?business=nerve011235%40gmail.com)** · **[🗺️ Atlas](https://need-singularity.github.io/TECS-L/atlas/)** · **[📄 Papers](https://need-singularity.github.io/papers/)**
+**[🎥 YouTube](https://www.youtube.com/@dancinlife)** · **[💬 Discord](https://discord.gg/mYzqYr67R)** · **[📬 Email](mailto:nerve011235@gmail.com)** · **[☕ Ko-fi](https://ko-fi.com/dancinlife)** · **[💖 Sponsor](https://github.com/sponsors/dancinlab)** · **[💳 PayPal](https://www.paypal.com/donate?business=nerve011235%40gmail.com)** · **[🗺️ Atlas](https://dancinlab.github.io/TECS-L/atlas/)** · **[📄 Papers](https://dancinlab.github.io/papers/)**
 
 ---
 
