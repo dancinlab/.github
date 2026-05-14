@@ -33,14 +33,6 @@ Native compiler with atlas-bound theorems — 8 strict-lint stages, citation-enf
 
 Discoveries catalog — list of findings from the HEXA-* projects, σφτ identity at the centre, 17 domain families, policy SSOTs.
 
-### 🔭 [NEXUS](https://github.com/dancinlab/nexus)
-
-Universal Discovery Engine — 216 lenses + OUROBOROS evolution + 5-phase singularity cycle. [3D Reality Map](https://dancinlab.github.io/nexus/): 9,612 nodes, bottom-up causal mapping, 2,222 cross-layer edges.
-
-### 📄 [Papers](https://github.com/dancinlab/papers)
-
-Complete paper collection (92 papers, Zenodo DOIs).
-
 ---
 
 ## Sibling formats
