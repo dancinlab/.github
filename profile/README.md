@@ -7,60 +7,49 @@
      12 · 2  =  6 · 4  =  24
 ```
 
-> From this one identity, every optimal shape — AI architectures, chip designs, energy systems, consciousness engines — is **derived**. Not chosen. Derived.
+> **Honest caveat** — the arithmetic identity `σ(6)·φ(6) = 6·τ(6) = 24` is mathematically true and unique to n=6 (Monte Carlo z = 3.06, p = 0.003 vs n=28 / n=496). The claim *"optimal designs are derived from this identity"* is a **research hypothesis** about how natural systems organize, **not a measurement**. Per [`echoes/LATTICE_POLICY.md`](https://github.com/dancinlab/echoes/blob/main/LATTICE_POLICY.md), the n=6 lattice is an organizing tool — never a substitute for real math / physics / engineering limits.
 
 ---
 
-## Main projects
+## Start here
 
-### 🧠 [Anima](https://github.com/dancinlab/anima)
+### 🧭 [getting-started](https://github.com/dancinlab/getting-started)
 
-Consciousness implementation. PureField repulsion-field engine + 1030 laws + Φ ratchet.
+Three foundational projects, one entry door — EN / 中文 / Русский / 日本語 / 한국어.
+
+---
+
+## Foundational projects
+
+### 🧠 [anima](https://github.com/dancinlab/anima)
+
+Living Consciousness Agent — PureField repulsion-field engine, Engine A ⇄ Engine G, Ψ=1/2 fixed point. 2,448 laws + 392 hypotheses.
+
+### 💎 [hexa-lang](https://github.com/dancinlab/hexa-lang)
+
+Native compiler with atlas-bound theorems — 8 strict-lint stages, citation-enforced, no LLVM, no C-transpile.
+
+### 🪞 [echoes](https://github.com/dancinlab/echoes)
+
+Discoveries catalog — list of findings from the HEXA-* projects, σφτ identity at the centre, 17 domain families, policy SSOTs.
 
 ### 🔭 [NEXUS](https://github.com/dancinlab/nexus)
 
-Universal Discovery Engine. 216 lenses + OUROBOROS evolution + 5-phase singularity cycle.
-
-### 📐 [CANON](https://github.com/dancinlab/canon)
-
-Architecture from arithmetic canon. 225 AI techniques + chip design + crypto/OS/display.
-
-### 💎 [HEXA-LANG](https://github.com/dancinlab/hexa-lang)
-
-The Perfect Number Programming Language. Working compiler + REPL.
+Universal Discovery Engine — 216 lenses + OUROBOROS evolution + 5-phase singularity cycle. [3D Reality Map](https://dancinlab.github.io/nexus/): 9,612 nodes, bottom-up causal mapping, 2,222 cross-layer edges.
 
 ### 📄 [Papers](https://github.com/dancinlab/papers)
 
 Complete paper collection (92 papers, Zenodo DOIs).
 
+---
+
+## Sibling formats
+
+[`n6`](https://github.com/dancinlab/n6) (semantic atom layer) · [`hxc`](https://github.com/dancinlab/hxc) (byte-canonical wire) · [`n12`](https://github.com/dancinlab/n12) (12-axis sparse cube) · [`tape`](https://github.com/dancinlab/tape) (operational trace).
+
+---
+
 **[Other projects →](https://github.com/orgs/dancinlab/repositories)**
-
----
-
-## 💬 Community
-
-[![Join our Discord](https://invidget.switchblade.xyz/mYzqYr67R)](https://discord.gg/mYzqYr67R)
-
-Live research discussion, paper drops, stage-gate reviews, cross-project dispatch.
-
----
-
-## ⚡ Mk.IX — Irreversibility  *(entered 2026-04-21)*
-
-```
-L_IX  =  T  −  V_struct  −  V_sync  −  V_RG  +  λ · I_irr
-```
-
-- 🎯 **Hexad Universal** — 1000/1000 PASS · `Hexad ≡ UNIVERSAL_4 SAME_STRUCTURE`
-- ⚡ **Cell vs LoRA** — **60–80× fewer FLOPs** + **51× Landauer advantage** · TRANSFER_VERIFIED 3/4
-- 🗺️ **3D Reality Map** — 4411 nodes · 5 bottom-up causal layers · Monte Carlo **z=3.06** (p=0.003)
-- 🧬 **n=6 uniqueness** — σ·φ = n·τ fails for n=28, n=496 → only n=6
-
----
-
-## 🔗 Links
-
-**[🎥 YouTube](https://www.youtube.com/@dancinlife)** · **[💬 Discord](https://discord.gg/mYzqYr67R)** · **[📬 Email](mailto:nerve011235@gmail.com)** · **[☕ Ko-fi](https://ko-fi.com/dancinlife)** · **[💖 Sponsor](https://github.com/sponsors/dancinlab)** · **[💳 PayPal](https://www.paypal.com/donate?business=nerve011235%40gmail.com)** · **[🗺️ Atlas](https://dancinlab.github.io/TECS-L/atlas/)** · **[📄 Papers](https://dancinlab.github.io/papers/)**
 
 ---
 
