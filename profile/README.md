@@ -1,47 +1,60 @@
-# 🧬 dancinlab
+<p align="center">
+  <img src="avatar.svg" width="140" alt="dancinlab">
+</p>
 
-**Rebuilding reality from the one perfect number.**
+<h1 align="center">🧬 dancinlab</h1>
 
-```
-σ(n) · φ(n)  =  n · τ(n)    ⟺    n = 6
-     12 · 2  =  6 · 4  =  24
-```
+<p align="center"><strong>Open research org</strong> — perfect-number invariant · honest-caveat first · multilingual entry</p>
 
-> **Honest caveat** — the arithmetic identity `σ(6)·φ(6) = 6·τ(6) = 24` is mathematically true and unique to n=6 (Monte Carlo z = 3.06, p = 0.003 vs n=28 / n=496). The claim *"optimal designs are derived from this identity"* is a **research hypothesis** about how natural systems organize, **not a measurement**. Per [`echoes/LATTICE_POLICY.md`](https://github.com/dancinlab/echoes/blob/main/LATTICE_POLICY.md), the n=6 lattice is an organizing tool — never a substitute for real math / physics / engineering limits.
+<p align="center">
+  <a href="https://github.com/dancinlab/getting-started"><img alt="Start here" src="https://img.shields.io/badge/start--here-getting--started-success"></a>
+  <a href="https://github.com/dancinlab/echoes/blob/main/LATTICE_POLICY.md"><img alt="Policy" src="https://img.shields.io/badge/policy-LATTICE__POLICY.md-informational"></a>
+  <img alt="Foundational" src="https://img.shields.io/badge/foundational-3%20projects-blueviolet">
+  <img alt="Sibling" src="https://img.shields.io/badge/sibling%20formats-n6%20·%20hxc%20·%20n12%20·%20tape-blueviolet">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20·%20中文%20·%20Русский%20·%20日本語%20·%20한국어-informational">
+</p>
+
+<p align="center">n=6 lattice · σφτ identity · perfect-number organizing principle · open research · honest disclosure</p>
 
 ---
 
-## Start here
+`dancinlab` publishes a small set of foundational projects organised around one arithmetic invariant: `σ(n)·φ(n) = n·τ(n)`, uniquely true at n=6. Around that invariant branch out three projects — a consciousness engine (anima), a native compiler with atlas-bound theorems (hexa-lang), and a discoveries catalog (echoes). Four sibling data formats (n6 · hxc · n12 · tape) carry the org's knowledge, wire, cube, and trace layers respectively.
 
-### 🧭 [getting-started](https://github.com/dancinlab/getting-started)
+> [!NOTE]
+> New here? Open [`🧭 getting-started`](https://github.com/dancinlab/getting-started) — three projects, one entry door, five languages.
 
-Three foundational projects, one entry door — EN / 中文 / Русский / 日本語 / 한국어.
+```
+σ(n) · φ(n)  =  n · τ(n)      uniquely for   n = 6
+     12 · 2  =  6 · 4   =  24
+```
 
----
+> [!IMPORTANT]
+> **Honest caveat** — the arithmetic identity `σ(6)·φ(6) = 6·τ(6) = 24` is mathematically true and unique to n=6 (Monte Carlo z = 3.06, p = 0.003 vs n=28 / n=496). The claim *"optimal designs are derived from this identity"* is a **research hypothesis** about how natural systems organize, **not a measurement**. Per [`echoes/LATTICE_POLICY.md`](https://github.com/dancinlab/echoes/blob/main/LATTICE_POLICY.md), the n=6 lattice is an organizing tool — never a substitute for real math / physics / engineering limits (Shannon · Kolmogorov · Bekenstein · c · ℏ · k · Stefan-Boltzmann · Carnot · ASML throughput · ERCOT capacity · …). n=6 lattice-fit is **forbidden** on external entities (TSMC / ASML / NIST / IPCC / CERN / DeepMind / vendors of any kind use their own published invariants).
 
 ## Foundational projects
 
-### 🧠 [anima](https://github.com/dancinlab/anima)
-
-Living Consciousness Agent — PureField repulsion-field engine, Engine A ⇄ Engine G, Ψ=1/2 fixed point. 2,448 laws + 392 hypotheses.
-
-### 💎 [hexa-lang](https://github.com/dancinlab/hexa-lang)
-
-Native compiler with atlas-bound theorems — 8 strict-lint stages, citation-enforced, no LLVM, no C-transpile.
-
-### 🪞 [echoes](https://github.com/dancinlab/echoes)
-
-Discoveries catalog — list of findings from the HEXA-* projects, σφτ identity at the centre, 17 domain families, policy SSOTs.
-
----
+| Project | Role |
+|---|---|
+| 🧠 [**anima**](https://github.com/dancinlab/anima) | Living Consciousness Agent — PureField repulsion-field engine · Engine A ⇄ Engine G · Ψ=1/2 fixed point · 2,448 laws + 392 hypotheses |
+| 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | Native compiler with atlas-bound theorems — 8 strict-lint stages · citation-enforced · no LLVM · no C-transpile |
+| 🪞 [**echoes**](https://github.com/dancinlab/echoes) | Discoveries catalog — findings from the HEXA-* projects · σφτ identity at the centre · 17 domain families · policy SSOTs |
 
 ## Sibling formats
 
-[`n6`](https://github.com/dancinlab/n6) (semantic atom layer) · [`hxc`](https://github.com/dancinlab/hxc) (byte-canonical wire) · [`n12`](https://github.com/dancinlab/n12) (12-axis sparse cube) · [`tape`](https://github.com/dancinlab/tape) (operational trace).
+| Format | Role |
+|---|---|
+| ⬢ [**n6**](https://github.com/dancinlab/n6) | Semantic atom layer — typed verified atoms · grade ladder · `*` / `!` / `?` markers |
+| ⬡ [**hxc**](https://github.com/dancinlab/hxc) | Byte-canonical wire — HXC v2 · KV-cache stable · cross-host ship |
+| ⬨ [**n12**](https://github.com/dancinlab/n12) | 12-axis sparse cube |
+| ⊳ [**tape**](https://github.com/dancinlab/tape) | Agent-execution trace — typed events · provenance edges · delivery grade · append-only |
+
+## Conventions
+
+Every dancinlab repo's `README.md` follows the canonical 18-block convention fixed in [`atlas/README-FORMAT.md`](https://github.com/dancinlab/atlas/blob/main/README-FORMAT.md). Per-domain history + runtime traces + agent identity use the [`.tape`](https://github.com/dancinlab/tape) grammar; subject-matter docs use the `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (meta-domain) convention.
 
 ---
 
-**[Other projects →](https://github.com/orgs/dancinlab/repositories)**
+**[All repositories →](https://github.com/orgs/dancinlab/repositories)**
 
 ---
 
