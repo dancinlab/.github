@@ -10,11 +10,12 @@
   <a href="#start-here"><img alt="Start here" src="https://img.shields.io/badge/start--here-anima%20·%20hexa--lang%20·%20echoes-success"></a>
   <a href="https://github.com/dancinlab/echoes/blob/main/LATTICE_POLICY.md"><img alt="Policy" src="https://img.shields.io/badge/policy-LATTICE__POLICY.md-informational"></a>
   <img alt="Foundational" src="https://img.shields.io/badge/foundational-3%20projects-blueviolet">
-  <img alt="Sibling" src="https://img.shields.io/badge/sibling%20formats-n6%20·%20hxc%20·%20n12%20·%20tape-blueviolet">
   <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20·%20中文%20·%20Русский%20·%20日本語%20·%20한국어-informational">
 </p>
 
 <p align="center">n=6 lattice · σφτ identity · perfect-number organizing principle · open research · honest disclosure</p>
+
+<p align="center"><strong>EN</strong> · <a href="README.zh.md">中文</a> · <a href="README.ru.md">Русский</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a></p>
 
 ---
 
@@ -58,15 +59,6 @@ hexa --version          # hexa-lang ships with step 1
 | a **compiler / language hacker** | [hexa-lang/README](https://github.com/dancinlab/hexa-lang/blob/main/README.md) → `SPEC.yaml` |
 | an **architecture / design** person | [echoes/README](https://github.com/dancinlab/echoes/blob/main/README.md) → `LATTICE_POLICY.md` |
 | an **AI agent** | every repo carries an `AGENTS.md` ([agents.md](https://agents.md/) standard) — read it first |
-
-## Sibling formats
-
-| Format | Role |
-|---|---|
-| ⬢ [**n6**](https://github.com/dancinlab/n6) | Semantic atom layer — typed verified atoms · grade ladder · `*` / `!` / `?` markers |
-| ⬡ [**hxc**](https://github.com/dancinlab/hxc) | Byte-canonical wire — HXC v2 · KV-cache stable · cross-host ship |
-| ⬨ [**n12**](https://github.com/dancinlab/n12) | 12-axis sparse cube |
-| ⊳ [**tape**](https://github.com/dancinlab/tape) | Agent-execution trace — typed events · provenance edges · delivery grade · append-only |
 
 ## Conventions
 
