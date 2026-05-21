@@ -57,6 +57,7 @@ Downstream tools built *on top of* the three foundational projects.
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | Minimal host roster + remote exec — single Python file, zero deps, state at `~/.pool/pool.json` |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | Grid-first terminal — Ghostty hard fork, N×M tiling as a core rendering surface (beta: grid mode only) |
 | 🕸️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS menubar power-utility — Magnet 8-zone window snap · ⌃S app launcher · custom hotkeys · wake/sleep control · overload-watch (load > 80 → claude priority) |
+| 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI knowledge substrate — 17-verb spec library (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I) with a 3-vendor orchestration runtime |
 
 ## Install
 

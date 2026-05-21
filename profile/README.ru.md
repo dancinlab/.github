@@ -57,6 +57,7 @@
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | Минимальный реестр хостов + удалённый exec — один Python-файл, без зависимостей, состояние в `~/.pool/pool.json` |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | Терминал grid-first — жёсткий форк Ghostty, N×M-тайлинг как первоклассная поверхность рендеринга (бета: только grid-режим) |
 | 🕸️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS-утилита в menubar — Magnet 8-зонный snap окон · ⌃S app-лаунчер · кастомные хоткеи · контроль сна/пробуждения · overload-watch (load > 80 → приоритет claude) |
+| 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | ИИ-субстрат знаний — библиотека спецификаций на 17 глаголов (safety · economics · ops · substrate) + `lm_foundry/` code-LLM для hexa-lang (94.29 % Mk.I) с runtime-оркестрацией трёх вендоров |
 
 ## Установка
 
