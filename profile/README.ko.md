@@ -52,12 +52,12 @@
 
 | 프로젝트 | 무엇인가 |
 |---|---|
+| 📚 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 지식 기질 — 17-verb 스펙 라이브러리 (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I), 3-벤더 오케스트레이션 런타임 포함 |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | 멀티모달 지식-앵커 매니페스트 포맷 — 배치 좌표 ⊥ 모달리티 페이로드, anima의 `CONSCIOUSNESS-CARVING`이 첫 프로필 |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code 마켓플레이스 팩 — 개념 분리된 hooks / commands / skills (플러그인 1개 = 종류 1개) |
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | 최소 호스트 로스터 + 원격 실행 — 단일 Python 파일, 의존성 0, 상태는 `~/.pool/pool.json` |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | 그리드 우선 터미널 — Ghostty 하드포크, N×M 타일링을 핵심 렌더링 표면으로 (베타: 그리드 모드만) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS 메뉴바 파워 유틸 — Magnet 8-존 윈도우 스냅 · ⌃S 앱 런처 · 커스텀 핫키 · 슬립/웨이크 제어 · 오버로드 워치 (load > 80 → claude 우선) |
-| 📚 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 지식 기질 — 17-verb 스펙 라이브러리 (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I), 3-벤더 오케스트레이션 런타임 포함 |
 
 ## 설치
 
