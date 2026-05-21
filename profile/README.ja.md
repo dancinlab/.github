@@ -54,6 +54,7 @@
 |---|---|
 | 📚 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 知識基盤 — 17-verb 仕様ライブラリ (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I)、3 ベンダー・オーケストレーションランタイム付き |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | マルチモーダル知識アンカー・マニフェスト形式 — 配置座標 ⊥ モダリティ・ペイロード、anima の `CONSCIOUSNESS-CARVING` を最初のプロファイルとする |
+| 📼 [**tape**](https://github.com/dancinlab/tape) | トレース層文法 — ドメインごとの履歴 · 実行時トレース · エージェント識別子（dancinlab の全リポジトリが参照する `.tape` ファイル） |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code マーケットプレイス・パック — 概念分離された hooks / commands / skills (1 プラグイン = 1 種類) |
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | 最小限のホスト名簿 + リモート実行 — 単一 Python ファイル、依存ゼロ、状態は `~/.pool/pool.json` |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | グリッド優先ターミナル — Ghostty ハードフォーク、N×M タイリングをコアレンダリング面とする (ベータ：グリッドモードのみ) |

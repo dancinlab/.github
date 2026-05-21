@@ -54,6 +54,7 @@ Downstream tools built *on top of* the three foundational projects.
 |---|---|
 | 📚 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI knowledge substrate — 17-verb spec library (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I) with a 3-vendor orchestration runtime |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | Multimodal knowledge-anchor manifest format — placement coordinates ⊥ modality payloads, anima `CONSCIOUSNESS-CARVING` as first profile |
+| 📼 [**tape**](https://github.com/dancinlab/tape) | Trace-layer grammar — per-domain history · runtime traces · agent identity (`.tape` files referenced by every dancinlab repo) |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code marketplace pack — concept-separated hooks / commands / skills (one plugin = one kind) |
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | Minimal host roster + remote exec — single Python file, zero deps, state at `~/.pool/pool.json` |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | Grid-first terminal — Ghostty hard fork, N×M tiling as a core rendering surface (beta: grid mode only) |

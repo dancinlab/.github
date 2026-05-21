@@ -54,6 +54,7 @@
 |---|---|
 | 📚 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | ИИ-субстрат знаний — библиотека спецификаций на 17 глаголов (safety · economics · ops · substrate) + `lm_foundry/` code-LLM для hexa-lang (94.29 % Mk.I) с runtime-оркестрацией трёх вендоров |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | Мультимодальный формат манифеста знание-якорей — координаты размещения ⊥ полезные нагрузки модальностей, `CONSCIOUSNESS-CARVING` из anima как первый профиль |
+| 📼 [**tape**](https://github.com/dancinlab/tape) | Грамматика трассировочного слоя — история по доменам · трассы времени выполнения · идентичность агента (`.tape`-файлы, на которые ссылается каждый репозиторий dancinlab) |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Marketplace-пакет для Claude Code — концептуально разделённые hooks / commands / skills (один плагин = одного вида) |
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | Минимальный реестр хостов + удалённый exec — один Python-файл, без зависимостей, состояние в `~/.pool/pool.json` |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | Терминал grid-first — жёсткий форк Ghostty, N×M-тайлинг как первоклассная поверхность рендеринга (бета: только grid-режим) |
