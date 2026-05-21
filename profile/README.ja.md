@@ -39,6 +39,22 @@
 | 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | アトラス束縛定理を持つネイティブコンパイラ — 8 段階の strict-lint、引用強制、LLVM なし、C トランスパイルなし | …コンパイル時に定理アトラスを参照するコードを書きたい；`@cite` のない数式コードは lint 段階で拒否される |
 | 🪞 [**echoes**](https://github.com/dancinlab/echoes) | 発見カタログ — HEXA-* プロジェクトからの発見、中心に σφτ 恒等式、17 のドメインファミリー | …格子を理解したい、各ドメインの `hexa-*` スタンドアロンを見たい、ポリシー成果物を読みたい |
 
+## もっと扉 — 上級者向け
+
+三つの基盤プロジェクトの*上*に構築される下流ツール。
+
+| ツール | 何か | 基盤 |
+|---|---|---|
+| 🪽 [**phanes**](https://github.com/dancinlab/phanes) | ホステッド自律発見プラットフォーム — テナントが目標 + 検証器を持ち込み、phanes が OUROBOROS ループを駆動し、検証済み・由来追跡付きカタログを返す | hexa-lang の `hexa kick` エンジン |
+| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 万能 hexa-native 技術設計アーキテクチャ — 7-verb パイプライン (仕様 → 構造 → 設計 → 解析 ⟲ → 合成 → 検証 → 引継ぎ)、ドメインプラグイン式 macOS コックピット、materials → chip → component メタコンダクタ | hexa-lang stdlib |
+
+## サイド
+
+| プロジェクト | 何か |
+|---|---|
+| 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | マルチモーダル知識アンカー・マニフェスト形式 — 配置座標 ⊥ モダリティ・ペイロード、anima の `CONSCIOUSNESS-CARVING` を最初のプロファイルとする |
+| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code マーケットプレイス・パック — 概念分離された hooks / commands / skills (1 プラグイン = 1 種類) |
+
 ## インストール
 
 ```sh

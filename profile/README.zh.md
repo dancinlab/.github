@@ -39,6 +39,22 @@
 | 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | 带 atlas 绑定定理的原生编译器 — 8 个严格 lint 阶段、强制引用、无 LLVM、无 C 转译 | …编写在编译时引用定理 atlas 的代码；lint 阶段会拒绝任何未 `@cite` 的带公式代码 |
 | 🪞 [**echoes**](https://github.com/dancinlab/echoes) | 发现目录 — 来自 HEXA-* 项目的发现，中心为 σφτ 恒等式，17 个领域族 | …理解格点、浏览各领域 `hexa-*` 独立仓库、阅读策略文件 |
 
+## 更多门 — 进阶
+
+构建在三个基础项目*之上*的下游工具。
+
+| 工具 | 是什么 | 基于 |
+|---|---|---|
+| 🪽 [**phanes**](https://github.com/dancinlab/phanes) | 托管式自主发现平台 — 租户提供目标 + 验证器；phanes 驱动 OUROBOROS 循环，返回经验证、可溯源的目录 | hexa-lang 的 `hexa kick` 引擎 |
+| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 通用 hexa-native 技术设计架构 — 7-verb 流水线 (规格 → 结构 → 设计 → 解析 ⟲ → 合成 → 验证 → 交付)、领域插件式 macOS 驾驶舱、materials → chip → component 元指挥 | hexa-lang 标准库 |
+
+## 侧边
+
+| 项目 | 是什么 |
+|---|---|
+| 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | 多模态知识锚点清单格式 — 位置坐标 ⊥ 模态载荷，anima `CONSCIOUSNESS-CARVING` 为首个 profile |
+| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code marketplace 插件包 — 概念分离的 hooks / commands / skills (一个插件 = 一种) |
+
 ## 安装
 
 ```sh

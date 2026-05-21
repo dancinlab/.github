@@ -39,6 +39,22 @@
 | 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | Native compiler with atlas-bound theorems — 8 strict-lint stages, citation-enforced, no LLVM, no C-transpile | …write code that cites a theorem atlas at compile time; the lint stages reject formula-bearing code without `@cite` |
 | 🪞 [**echoes**](https://github.com/dancinlab/echoes) | Discoveries catalog — findings from the HEXA-* projects, σφτ identity at the centre, 17 domain families | …understand the lattice, browse the per-domain `hexa-*` standalones, read policy artifacts |
 
+## More doors — for experts
+
+Downstream tools built *on top of* the three foundational projects.
+
+| Tool | What it is | Built on |
+|---|---|---|
+| 🪽 [**phanes**](https://github.com/dancinlab/phanes) | Hosted autonomous-discovery platform — tenants bring an objective + verifier; phanes drives the OUROBOROS loop and returns a verified, provenance-tracked catalog | hexa-lang's `hexa kick` engine |
+| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | Universal hexa-native technical-design architecture — 7-verb pipeline (spec → structure → design → analyze ⟲ → synthesize → verify → handoff), domain-plugin macOS cockpit, materials → chip → component meta-conductor | hexa-lang stdlib |
+
+## Side
+
+| Project | What it is |
+|---|---|
+| 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | Multimodal knowledge-anchor manifest format — placement coordinates ⊥ modality payloads, anima `CONSCIOUSNESS-CARVING` as first profile |
+| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code marketplace pack — concept-separated hooks / commands / skills (one plugin = one kind) |
+
 ## Install
 
 ```sh
