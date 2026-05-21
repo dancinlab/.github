@@ -54,6 +54,9 @@
 |---|---|
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | 多模态知识锚点清单格式 — 位置坐标 ⊥ 模态载荷，anima `CONSCIOUSNESS-CARVING` 为首个 profile |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code marketplace 插件包 — 概念分离的 hooks / commands / skills (一个插件 = 一种) |
+| 🎱 [**pool**](https://github.com/dancinlab/pool) | 极简主机花名册 + 远程执行 — 单个 Python 文件，零依赖，状态保存在 `~/.pool/pool.json` |
+| 🕳️ [**void**](https://github.com/dancinlab/void) | 网格优先终端 — Ghostty 硬分叉，N×M 平铺作为核心渲染表面 (beta：仅网格模式) |
+| 🧲 [**airgenome**](https://github.com/dancinlab/airgenome) | macOS 菜单栏增强工具 — Magnet 8 区窗口吸附 · ⌃S 应用启动器 · 自定义热键 · 唤醒/睡眠控制 · 过载监视 (load > 80 → claude 优先) |
 
 ## 安装
 
