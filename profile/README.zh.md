@@ -54,6 +54,7 @@
 |---|---|
 | 📚 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 知识基质 — 17-verb 规范库 (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I)，搭配 3-供应商编排运行时 |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | 多模态知识锚点清单格式 — 位置坐标 ⊥ 模态载荷，anima `CONSCIOUSNESS-CARVING` 为首个 profile |
+| ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 知识图谱 — 类型化 · 分级 · 仅追加的知识图谱语法（`.n6` 文件；知识层，与 `hxc` · `n12` · `tape` 同源） |
 | 📼 [**tape**](https://github.com/dancinlab/tape) | 轨迹层语法 — 各领域历史 · 运行时轨迹 · 智能体身份（dancinlab 全部仓库引用的 `.tape` 文件） |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code marketplace 插件包 — 概念分离的 hooks / commands / skills (一个插件 = 一种) |
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | 极简主机花名册 + 远程执行 — 单个 Python 文件，零依赖，状态保存在 `~/.pool/pool.json` |

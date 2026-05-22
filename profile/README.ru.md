@@ -54,6 +54,7 @@
 |---|---|
 | 📚 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | ИИ-субстрат знаний — библиотека спецификаций на 17 глаголов (safety · economics · ops · substrate) + `lm_foundry/` code-LLM для hexa-lang (94.29 % Mk.I) с runtime-оркестрацией трёх вендоров |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | Мультимодальный формат манифеста знание-якорей — координаты размещения ⊥ полезные нагрузки модальностей, `CONSCIOUSNESS-CARVING` из anima как первый профиль |
+| ⬢ [**n6**](https://github.com/dancinlab/n6) | Атлас знаний NEXUS-6 — типизированная · градуированная · append-only грамматика атласа знаний (`.n6`-файлы; слой знаний, родственный формат к `hxc` · `n12` · `tape`) |
 | 📼 [**tape**](https://github.com/dancinlab/tape) | Грамматика трассировочного слоя — история по доменам · трассы времени выполнения · идентичность агента (`.tape`-файлы, на которые ссылается каждый репозиторий dancinlab) |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Marketplace-пакет для Claude Code — концептуально разделённые hooks / commands / skills (один плагин = одного вида) |
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | Минимальный реестр хостов + удалённый exec — один Python-файл, без зависимостей, состояние в `~/.pool/pool.json` |
