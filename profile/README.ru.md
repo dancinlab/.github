@@ -58,6 +58,7 @@
 | 📼 [**tape**](https://github.com/dancinlab/tape) | Грамматика трассировочного слоя — история по доменам · трассы времени выполнения · идентичность агента (`.tape`-файлы, на которые ссылается каждый репозиторий dancinlab) |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Marketplace-пакет для Claude Code — концептуально разделённые hooks / commands / skills (один плагин = одного вида) |
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | Минимальный реестр хостов + удалённый exec — один Python-файл, без зависимостей, состояние в `~/.pool/pool.json` |
+| 🔐 [**secret**](https://github.com/dancinlab/secret) | CLI учётных данных на основе macOS Keychain — единый bash-скрипт, iCloud Keychain синхронизирует между Apple-устройствами пользователя |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | Терминал grid-first — жёсткий форк Ghostty, N×M-тайлинг как первоклассная поверхность рендеринга (бета: только grid-режим) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS-утилита в menubar — Magnet 8-зонный snap окон · ⌃S app-лаунчер · кастомные хоткеи · контроль сна/пробуждения · overload-watch (load > 80 → приоритет claude) |
 

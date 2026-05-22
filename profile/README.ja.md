@@ -58,6 +58,7 @@
 | 📼 [**tape**](https://github.com/dancinlab/tape) | トレース層文法 — ドメインごとの履歴 · 実行時トレース · エージェント識別子（dancinlab の全リポジトリが参照する `.tape` ファイル） |
 | 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code マーケットプレイス・パック — 概念分離された hooks / commands / skills (1 プラグイン = 1 種類) |
 | 🎱 [**pool**](https://github.com/dancinlab/pool) | 最小限のホスト名簿 + リモート実行 — 単一 Python ファイル、依存ゼロ、状態は `~/.pool/pool.json` |
+| 🔐 [**secret**](https://github.com/dancinlab/secret) | macOS Keychain ベースの認証情報 CLI — 単一 bash スクリプト、iCloud Keychain でユーザーの Apple デバイス間で同期 |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | グリッド優先ターミナル — Ghostty ハードフォーク、N×M タイリングをコアレンダリング面とする (ベータ：グリッドモードのみ) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS メニューバー強化ツール — Magnet 8 ゾーン・ウィンドウスナップ · ⌃S アプリランチャー · カスタムホットキー · スリープ/ウェイク制御 · オーバーロード監視 (load > 80 → claude 優先) |
 
