@@ -52,7 +52,7 @@
 
 | プロジェクト | 何か |
 |---|---|
-| 📚 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 知識基盤 — 17-verb 仕様ライブラリ (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I)、3 ベンダー・オーケストレーションランタイム付き |
+| 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 知識基盤 — 17-verb 仕様ライブラリ (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I)、3 ベンダー・オーケストレーションランタイム付き |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | マルチモーダル知識アンカー・マニフェスト形式 — 配置座標 ⊥ モダリティ・ペイロード、anima の `CONSCIOUSNESS-CARVING` を最初のプロファイルとする |
 | ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 知識アトラス — 型付き · 等級付き · 追記専用の知識アトラス文法（`.n6` ファイル；知識層、`hxc` · `n12` · `tape` の兄弟データ形式） |
 | 📼 [**tape**](https://github.com/dancinlab/tape) | トレース層文法 — ドメインごとの履歴 · 実行時トレース · エージェント識別子（dancinlab の全リポジトリが参照する `.tape` ファイル） |
