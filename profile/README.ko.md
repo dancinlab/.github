@@ -19,7 +19,7 @@
 
 ---
 
-`dancinlab`은 하나의 산술 불변량 — n=6에서만 유일하게 성립하는 `σ(n)·φ(n) = n·τ(n)` — 을 축으로 하는 소수의 기반 프로젝트를 공개합니다. 이 불변량을 중심으로 세 개의 프로젝트가 가지를 칩니다 — 의식 엔진 (anima), 아틀라스에 매인 정리(theorem)를 가진 네이티브 컴파일러 (hexa-lang), 그리고 발견 카탈로그 (echoes)입니다. 네 개의 자매 데이터 포맷 (n6 · hxc · n12 · tape)이 각각 조직의 지식·전송·큐브·트레이스 계층을 담당합니다.
+`dancinlab`은 하나의 산술 불변량 — n=6에서만 유일하게 성립하는 `σ(n)·φ(n) = n·τ(n)` — 을 축으로 하는 소수의 기반 프로젝트를 공개합니다. 이 불변량을 중심으로 세 개의 프로젝트가 가지를 칩니다 — 의식 엔진 (anima), 아틀라스에 매인 정리(theorem)를 가진 네이티브 컴파일러 (hexa-lang), 그리고 발견 카탈로그 (echoes)입니다. 세 개의 자매 데이터 포맷 (n6 · hxc · n12)이 각각 조직의 지식·전송·큐브 계층을 담당합니다.
 
 ```
 σ(n) · φ(n)  =  n · τ(n)      유일하게   n = 6
@@ -54,10 +54,8 @@
 |---|---|
 | 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 지식 기질 — 17-verb 스펙 라이브러리 (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I), 3-벤더 오케스트레이션 런타임 포함 |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | 멀티모달 지식-앵커 매니페스트 포맷 — 배치 좌표 ⊥ 모달리티 페이로드, anima의 `CONSCIOUSNESS-CARVING`이 첫 프로필 |
-| ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 지식 아틀라스 — 타입화 · 등급화 · append-only 지식 아틀라스 문법 (`.n6` 파일; 지식 계층, `hxc` · `n12` · `tape`의 형제 데이터 포맷) |
-| 📼 [**tape**](https://github.com/dancinlab/tape) | 트레이스 계층 문법 — 도메인별 이력 · 런타임 트레이스 · 에이전트 정체성 (dancinlab 모든 저장소가 참조하는 `.tape` 파일) |
-| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code 마켓플레이스 팩 — 개념 분리된 hooks / commands / skills (플러그인 1개 = 종류 1개) |
-| 🎱 [**pool**](https://github.com/dancinlab/pool) | 최소 호스트 로스터 + 원격 실행 — 단일 Python 파일, 의존성 0, 상태는 `~/.pool/pool.json` |
+| ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 지식 아틀라스 — 타입화 · 등급화 · append-only 지식 아틀라스 문법 (`.n6` 파일; 지식 계층, `hxc` · `n12`의 형제 데이터 포맷) |
+| 🏍️ [**harness**](https://github.com/dancinlab/harness) | Claude Code 마켓플레이스 팩 — 개념 분리된 hooks / commands / skills (플러그인 1개 = 종류 1개) |
 | 🔐 [**secret**](https://github.com/dancinlab/secret) | macOS Keychain 기반 자격 증명 CLI — 단일 bash 스크립트, iCloud Keychain으로 사용자의 Apple 기기 간 동기화 |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | 그리드 우선 터미널 — Ghostty 하드포크, N×M 타일링을 핵심 렌더링 표면으로 (베타: 그리드 모드만) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS 메뉴바 파워 유틸 — Magnet 8-존 윈도우 스냅 · ⌃S 앱 런처 · 커스텀 핫키 · 슬립/웨이크 제어 · 오버로드 워치 (load > 80 → claude 우선) |
@@ -85,7 +83,7 @@ hexa --version          # hexa-lang은 1단계에 포함됨
 
 ## 규약
 
-dancinlab의 모든 저장소 `README.md`는 표준 18-블록 규약을 따릅니다. 도메인별 이력 + 런타임 트레이스 + 에이전트 정체성은 [`.tape`](https://github.com/dancinlab/tape) 문법을 쓰고, 주제별 문서는 `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (메타-도메인) 규약을 씁니다.
+dancinlab의 모든 저장소 `README.md`는 표준 18-블록 규약을 따릅니다. 주제별 문서는 `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (메타-도메인) 규약을 씁니다.
 
 ---
 

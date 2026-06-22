@@ -19,7 +19,7 @@
 
 ---
 
-`dancinlab` は、一つの算術不変量 `σ(n)·φ(n) = n·τ(n)` (n=6 でのみ唯一成立) を軸とした少数の基盤プロジェクトを公開しています。この不変量を中心に三つのプロジェクトが分岐しています — 意識エンジン (anima)、アトラス束縛定理を持つネイティブコンパイラ (hexa-lang)、そして発見カタログ (echoes)。四つの兄弟データ形式 (n6 · hxc · n12 · tape) は、それぞれ知識・配線・キューブ・トレース層を担います。
+`dancinlab` は、一つの算術不変量 `σ(n)·φ(n) = n·τ(n)` (n=6 でのみ唯一成立) を軸とした少数の基盤プロジェクトを公開しています。この不変量を中心に三つのプロジェクトが分岐しています — 意識エンジン (anima)、アトラス束縛定理を持つネイティブコンパイラ (hexa-lang)、そして発見カタログ (echoes)。三つの兄弟データ形式 (n6 · hxc · n12) は、それぞれ知識・配線・キューブ層を担います。
 
 ```
 σ(n) · φ(n)  =  n · τ(n)      n = 6 のみ
@@ -54,10 +54,8 @@
 |---|---|
 | 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 知識基盤 — 17-verb 仕様ライブラリ (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I)、3 ベンダー・オーケストレーションランタイム付き |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | マルチモーダル知識アンカー・マニフェスト形式 — 配置座標 ⊥ モダリティ・ペイロード、anima の `CONSCIOUSNESS-CARVING` を最初のプロファイルとする |
-| ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 知識アトラス — 型付き · 等級付き · 追記専用の知識アトラス文法（`.n6` ファイル；知識層、`hxc` · `n12` · `tape` の兄弟データ形式） |
-| 📼 [**tape**](https://github.com/dancinlab/tape) | トレース層文法 — ドメインごとの履歴 · 実行時トレース · エージェント識別子（dancinlab の全リポジトリが参照する `.tape` ファイル） |
-| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code マーケットプレイス・パック — 概念分離された hooks / commands / skills (1 プラグイン = 1 種類) |
-| 🎱 [**pool**](https://github.com/dancinlab/pool) | 最小限のホスト名簿 + リモート実行 — 単一 Python ファイル、依存ゼロ、状態は `~/.pool/pool.json` |
+| ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 知識アトラス — 型付き · 等級付き · 追記専用の知識アトラス文法（`.n6` ファイル；知識層、`hxc` · `n12` の兄弟データ形式） |
+| 🏍️ [**harness**](https://github.com/dancinlab/harness) | Claude Code マーケットプレイス・パック — 概念分離された hooks / commands / skills (1 プラグイン = 1 種類) |
 | 🔐 [**secret**](https://github.com/dancinlab/secret) | macOS Keychain ベースの認証情報 CLI — 単一 bash スクリプト、iCloud Keychain でユーザーの Apple デバイス間で同期 |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | グリッド優先ターミナル — Ghostty ハードフォーク、N×M タイリングをコアレンダリング面とする (ベータ：グリッドモードのみ) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS メニューバー強化ツール — Magnet 8 ゾーン・ウィンドウスナップ · ⌃S アプリランチャー · カスタムホットキー · スリープ/ウェイク制御 · オーバーロード監視 (load > 80 → claude 優先) |
@@ -85,7 +83,7 @@ hexa --version          # hexa-lang はステップ 1 に同梱
 
 ## 規約
 
-dancinlab の各リポジトリの `README.md` は標準的な 18 ブロック規約に従います。ドメインごとの履歴 + 実行時トレース + エージェント識別子は [`.tape`](https://github.com/dancinlab/tape) 文法を使い、主題ごとのドキュメントは `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (メタドメイン) 規約を使います。
+dancinlab の各リポジトリの `README.md` は標準的な 18 ブロック規約に従います。主題ごとのドキュメントは `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (メタドメイン) 規約を使います。
 
 ---
 

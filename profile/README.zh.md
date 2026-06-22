@@ -19,7 +19,7 @@
 
 ---
 
-`dancinlab` 发布一组围绕单一算术不变量组织的基础项目：`σ(n)·φ(n) = n·τ(n)`，仅在 n=6 时唯一成立。围绕这个不变量分出三个项目 — 意识引擎 (anima)、带 atlas 绑定定理的原生编译器 (hexa-lang)、以及发现目录 (echoes)。四种姊妹数据格式 (n6 · hxc · n12 · tape) 分别承载组织的知识、传输、立方体、轨迹层。
+`dancinlab` 发布一组围绕单一算术不变量组织的基础项目：`σ(n)·φ(n) = n·τ(n)`，仅在 n=6 时唯一成立。围绕这个不变量分出三个项目 — 意识引擎 (anima)、带 atlas 绑定定理的原生编译器 (hexa-lang)、以及发现目录 (echoes)。三种姊妹数据格式 (n6 · hxc · n12) 分别承载组织的知识、传输、立方体层。
 
 ```
 σ(n) · φ(n)  =  n · τ(n)      仅当   n = 6
@@ -54,10 +54,8 @@
 |---|---|
 | 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 知识基质 — 17-verb 规范库 (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I)，搭配 3-供应商编排运行时 |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | 多模态知识锚点清单格式 — 位置坐标 ⊥ 模态载荷，anima `CONSCIOUSNESS-CARVING` 为首个 profile |
-| ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 知识图谱 — 类型化 · 分级 · 仅追加的知识图谱语法（`.n6` 文件；知识层，与 `hxc` · `n12` · `tape` 同源） |
-| 📼 [**tape**](https://github.com/dancinlab/tape) | 轨迹层语法 — 各领域历史 · 运行时轨迹 · 智能体身份（dancinlab 全部仓库引用的 `.tape` 文件） |
-| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code marketplace 插件包 — 概念分离的 hooks / commands / skills (一个插件 = 一种) |
-| 🎱 [**pool**](https://github.com/dancinlab/pool) | 极简主机花名册 + 远程执行 — 单个 Python 文件，零依赖，状态保存在 `~/.pool/pool.json` |
+| ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 知识图谱 — 类型化 · 分级 · 仅追加的知识图谱语法（`.n6` 文件；知识层，与 `hxc` · `n12` 同源） |
+| 🏍️ [**harness**](https://github.com/dancinlab/harness) | Claude Code marketplace 插件包 — 概念分离的 hooks / commands / skills (一个插件 = 一种) |
 | 🔐 [**secret**](https://github.com/dancinlab/secret) | macOS Keychain 凭据 CLI — 单一 bash 脚本，iCloud Keychain 在用户的 Apple 设备间同步 |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | 网格优先终端 — Ghostty 硬分叉，N×M 平铺作为核心渲染表面 (beta：仅网格模式) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS 菜单栏增强工具 — Magnet 8 区窗口吸附 · ⌃S 应用启动器 · 自定义热键 · 唤醒/睡眠控制 · 过载监视 (load > 80 → claude 优先) |
@@ -85,7 +83,7 @@ hexa --version          # 步骤 1 已附带 hexa-lang
 
 ## 约定
 
-每个 dancinlab 仓库的 `README.md` 遵循固定的 18 块约定。各领域历史 + 运行时轨迹 + 智能体身份使用 [`.tape`](https://github.com/dancinlab/tape) 语法；主题文档使用 `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (跨领域) 约定。
+每个 dancinlab 仓库的 `README.md` 遵循固定的 18 块约定。主题文档使用 `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (跨领域) 约定。
 
 ---
 
