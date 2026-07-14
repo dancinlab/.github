@@ -46,7 +46,7 @@
 | 도구 | 무엇인가 | 기반 |
 |---|---|---|
 | 🪽 [**phanes**](https://github.com/dancinlab/phanes) | 호스팅 자율-발견 플랫폼 — 테넌트가 목표 + 검증기를 가져오면 phanes가 OUROBOROS 루프를 돌리고 검증된·출처 추적 가능한 카탈로그를 반환 | hexa-lang의 `hexa kick` 엔진 |
-| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 만능 hexa-native 기술설계 아키텍처 — 7-verb 파이프라인 (명세 → 구조 → 설계 → 해석 ⟲ → 합성 → 검증 → 인계), 도메인-플러그인 macOS 콕핏, materials → chip → component 메타-컨덕터 | hexa-lang stdlib |
+| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 만능 hexa-native 기술설계 아키텍처 — 7-verb 파이프라인 (명세 → 구조 → 설계 → 해석 ⟲ → 합성 → 검증 → 인계), 도메인-플러그인 macOS 콕핏 | hexa-lang stdlib |
 
 ## 사이드
 
@@ -55,7 +55,7 @@
 | 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 지식 기질 — 17-verb 스펙 라이브러리 (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I), 3-벤더 오케스트레이션 런타임 포함 |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | 멀티모달 지식-앵커 매니페스트 포맷 — 배치 좌표 ⊥ 모달리티 페이로드, anima의 `CONSCIOUSNESS-CARVING`이 첫 프로필 |
 | ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 지식 아틀라스 — 타입화 · 등급화 · append-only 지식 아틀라스 문법 (`.n6` 파일; 지식 계층, `hxc` · `n12`의 형제 데이터 포맷) |
-| 🏍️ [**harness**](https://github.com/dancinlab/harness) | Claude Code 마켓플레이스 팩 — 개념 분리된 hooks / commands / skills (플러그인 1개 = 종류 1개) |
+| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code 마켓플레이스 팩 — 개념 분리된 hooks / commands / skills (플러그인 1개 = 종류 1개) |
 | 🔐 [**secret**](https://github.com/dancinlab/secret) | macOS Keychain 기반 자격 증명 CLI — 단일 bash 스크립트, iCloud Keychain으로 사용자의 Apple 기기 간 동기화 |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | 그리드 우선 터미널 — Ghostty 하드포크, N×M 타일링을 핵심 렌더링 표면으로 (베타: 그리드 모드만) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS 메뉴바 파워 유틸 — Magnet 8-존 윈도우 스냅 · ⌃S 앱 런처 · 커스텀 핫키 · 슬립/웨이크 제어 · 오버로드 워치 (load > 80 → claude 우선) |
@@ -80,10 +80,6 @@ hexa --version          # hexa-lang은 1단계에 포함됨
 | **컴파일러/언어 해커** | [hexa-lang/README](https://github.com/dancinlab/hexa-lang/blob/main/README.md) → `SPEC.yaml` |
 | **아키텍처/설계** 담당자 | [echoes/README](https://github.com/dancinlab/echoes/blob/main/README.md) → `LATTICE_POLICY.md` |
 | **AI 에이전트** | 모든 저장소에 `AGENTS.md` ([agents.md](https://agents.md/) 표준) — 가장 먼저 읽으세요 |
-
-## 규약
-
-dancinlab의 모든 저장소 `README.md`는 표준 18-블록 규약을 따릅니다. 주제별 문서는 `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (메타-도메인) 규약을 씁니다.
 
 ---
 

@@ -46,7 +46,7 @@
 | ツール | 何か | 基盤 |
 |---|---|---|
 | 🪽 [**phanes**](https://github.com/dancinlab/phanes) | ホステッド自律発見プラットフォーム — テナントが目標 + 検証器を持ち込み、phanes が OUROBOROS ループを駆動し、検証済み・由来追跡付きカタログを返す | hexa-lang の `hexa kick` エンジン |
-| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 万能 hexa-native 技術設計アーキテクチャ — 7-verb パイプライン (仕様 → 構造 → 設計 → 解析 ⟲ → 合成 → 検証 → 引継ぎ)、ドメインプラグイン式 macOS コックピット、materials → chip → component メタコンダクタ | hexa-lang stdlib |
+| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 万能 hexa-native 技術設計アーキテクチャ — 7-verb パイプライン (仕様 → 構造 → 設計 → 解析 ⟲ → 合成 → 検証 → 引継ぎ)、ドメインプラグイン式 macOS コックピット | hexa-lang stdlib |
 
 ## サイド
 
@@ -55,7 +55,7 @@
 | 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI 知識基盤 — 17-verb 仕様ライブラリ (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I)、3 ベンダー・オーケストレーションランタイム付き |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | マルチモーダル知識アンカー・マニフェスト形式 — 配置座標 ⊥ モダリティ・ペイロード、anima の `CONSCIOUSNESS-CARVING` を最初のプロファイルとする |
 | ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 知識アトラス — 型付き · 等級付き · 追記専用の知識アトラス文法（`.n6` ファイル；知識層、`hxc` · `n12` の兄弟データ形式） |
-| 🏍️ [**harness**](https://github.com/dancinlab/harness) | Claude Code マーケットプレイス・パック — 概念分離された hooks / commands / skills (1 プラグイン = 1 種類) |
+| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code マーケットプレイス・パック — 概念分離された hooks / commands / skills (1 プラグイン = 1 種類) |
 | 🔐 [**secret**](https://github.com/dancinlab/secret) | macOS Keychain ベースの認証情報 CLI — 単一 bash スクリプト、iCloud Keychain でユーザーの Apple デバイス間で同期 |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | グリッド優先ターミナル — Ghostty ハードフォーク、N×M タイリングをコアレンダリング面とする (ベータ：グリッドモードのみ) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS メニューバー強化ツール — Magnet 8 ゾーン・ウィンドウスナップ · ⌃S アプリランチャー · カスタムホットキー · スリープ/ウェイク制御 · オーバーロード監視 (load > 80 → claude 優先) |
@@ -80,10 +80,6 @@ hexa --version          # hexa-lang はステップ 1 に同梱
 | **コンパイラ／言語実装者** | [hexa-lang/README](https://github.com/dancinlab/hexa-lang/blob/main/README.md) → `SPEC.yaml` |
 | **アーキテクチャ／設計** 担当者 | [echoes/README](https://github.com/dancinlab/echoes/blob/main/README.md) → `LATTICE_POLICY.md` |
 | **AI エージェント** | 各リポジトリには `AGENTS.md` ([agents.md](https://agents.md/) 標準) — まずそれを読むこと |
-
-## 規約
-
-dancinlab の各リポジトリの `README.md` は標準的な 18 ブロック規約に従います。主題ごとのドキュメントは `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (メタドメイン) 規約を使います。
 
 ---
 

@@ -46,7 +46,7 @@
 | Инструмент | Что это | Построен на |
 |---|---|---|
 | 🪽 [**phanes**](https://github.com/dancinlab/phanes) | Хостинговая платформа автономных открытий — арендатор приносит цель + верификатор; phanes ведёт цикл OUROBOROS и возвращает верифицированный каталог с трассировкой провенанса | движок `hexa kick` из hexa-lang |
-| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | Универсальная hexa-native архитектура технического проектирования — 7-глагольный конвейер (спецификация → структура → проектирование → анализ ⟲ → синтез → проверка → передача), доменно-плагинная macOS-кабина, метадирижёр цепочки materials → chip → component | stdlib hexa-lang |
+| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | Универсальная hexa-native архитектура технического проектирования — 7-глагольный конвейер (спецификация → структура → проектирование → анализ ⟲ → синтез → проверка → передача), доменно-плагинная macOS-кабина | stdlib hexa-lang |
 
 ## Сбоку
 
@@ -55,7 +55,7 @@
 | 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | ИИ-субстрат знаний — библиотека спецификаций на 17 глаголов (safety · economics · ops · substrate) + `lm_foundry/` code-LLM для hexa-lang (94.29 % Mk.I) с runtime-оркестрацией трёх вендоров |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | Мультимодальный формат манифеста знание-якорей — координаты размещения ⊥ полезные нагрузки модальностей, `CONSCIOUSNESS-CARVING` из anima как первый профиль |
 | ⬢ [**n6**](https://github.com/dancinlab/n6) | Атлас знаний NEXUS-6 — типизированная · градуированная · append-only грамматика атласа знаний (`.n6`-файлы; слой знаний, родственный формат к `hxc` · `n12`) |
-| 🏍️ [**harness**](https://github.com/dancinlab/harness) | Marketplace-пакет для Claude Code — концептуально разделённые hooks / commands / skills (один плагин = одного вида) |
+| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Marketplace-пакет для Claude Code — концептуально разделённые hooks / commands / skills (один плагин = одного вида) |
 | 🔐 [**secret**](https://github.com/dancinlab/secret) | CLI учётных данных на основе macOS Keychain — единый bash-скрипт, iCloud Keychain синхронизирует между Apple-устройствами пользователя |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | Терминал grid-first — жёсткий форк Ghostty, N×M-тайлинг как первоклассная поверхность рендеринга (бета: только grid-режим) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS-утилита в menubar — Magnet 8-зонный snap окон · ⌃S app-лаунчер · кастомные хоткеи · контроль сна/пробуждения · overload-watch (load > 80 → приоритет claude) |
@@ -80,10 +80,6 @@ hexa --version          # hexa-lang поставляется с шагом 1
 | **разработчик компилятора / языков** | [hexa-lang/README](https://github.com/dancinlab/hexa-lang/blob/main/README.md) → `SPEC.yaml` |
 | **архитектор / дизайнер** | [echoes/README](https://github.com/dancinlab/echoes/blob/main/README.md) → `LATTICE_POLICY.md` |
 | **ИИ-агент** | каждый репозиторий несёт `AGENTS.md` (стандарт [agents.md](https://agents.md/)) — читайте его первым |
-
-## Соглашения
-
-`README.md` каждого репозитория dancinlab следует канонической 18-блочной конвенции. Предметные документы используют конвенцию `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (мета-домен).
 
 ---
 

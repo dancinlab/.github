@@ -46,7 +46,7 @@ Downstream tools built *on top of* the three foundational projects.
 | Tool | What it is | Built on |
 |---|---|---|
 | 🪽 [**phanes**](https://github.com/dancinlab/phanes) | Hosted autonomous-discovery platform — tenants bring an objective + verifier; phanes drives the OUROBOROS loop and returns a verified, provenance-tracked catalog | hexa-lang's `hexa kick` engine |
-| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | Universal hexa-native technical-design architecture — 7-verb pipeline (spec → structure → design → analyze ⟲ → synthesize → verify → handoff), domain-plugin macOS cockpit, materials → chip → component meta-conductor | hexa-lang stdlib |
+| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | Universal hexa-native technical-design architecture — 7-verb pipeline (spec → structure → design → analyze ⟲ → synthesize → verify → handoff), domain-plugin macOS cockpit | hexa-lang stdlib |
 
 ## Side
 
@@ -55,7 +55,7 @@ Downstream tools built *on top of* the three foundational projects.
 | 📜 [**hexa-codex**](https://github.com/dancinlab/hexa-codex) | AI knowledge substrate — 17-verb spec library (safety · economics · ops · substrate) + `lm_foundry/` hexa-lang code-LLM (94.29 % Mk.I) with a 3-vendor orchestration runtime |
 | 🌌 [**kosmos**](https://github.com/dancinlab/kosmos) | Multimodal knowledge-anchor manifest format — placement coordinates ⊥ modality payloads, anima `CONSCIOUSNESS-CARVING` as first profile |
 | ⬢ [**n6**](https://github.com/dancinlab/n6) | NEXUS-6 Knowledge Atlas — typed · graded · append-only knowledge-atlas grammar (`.n6` files; knowledge-layer sibling to `hxc` · `n12`) |
-| 🏍️ [**harness**](https://github.com/dancinlab/harness) | Claude Code marketplace pack — concept-separated hooks / commands / skills (one plugin = one kind) |
+| 🏍️ [**sidecar**](https://github.com/dancinlab/sidecar) | Claude Code marketplace pack — concept-separated hooks / commands / skills (one plugin = one kind) |
 | 🔐 [**secret**](https://github.com/dancinlab/secret) | macOS Keychain-backed credential CLI — single bash script, iCloud Keychain syncs across the user's Apple devices |
 | 🕳️ [**void**](https://github.com/dancinlab/void) | Grid-first terminal — Ghostty hard fork, N×M tiling as a core rendering surface (beta: grid mode only) |
 | 🎛️ [**airgenome**](https://github.com/dancinlab/airgenome) | macOS menubar power-utility — Magnet 8-zone window snap · ⌃S app launcher · custom hotkeys · wake/sleep control · overload-watch (load > 80 → claude priority) |
@@ -80,10 +80,6 @@ hexa --version          # hexa-lang ships with step 1
 | a **compiler / language hacker** | [hexa-lang/README](https://github.com/dancinlab/hexa-lang/blob/main/README.md) → `SPEC.yaml` |
 | an **architecture / design** person | [echoes/README](https://github.com/dancinlab/echoes/blob/main/README.md) → `LATTICE_POLICY.md` |
 | an **AI agent** | every repo carries an `AGENTS.md` ([agents.md](https://agents.md/) standard) — read it first |
-
-## Conventions
-
-Every dancinlab repo's `README.md` follows a canonical 18-block convention. Subject-matter docs use the `UPPERCASE.md` / `UPPERCASE+UPPERCASE.md` (meta-domain) convention.
 
 ---
 
