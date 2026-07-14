@@ -4,30 +4,18 @@
 
 <h1 align="center">🧬 dancinlab</h1>
 
-<p align="center"><strong>Open research org</strong> — perfect-number invariant · honest-caveat first · multilingual entry</p>
+<p align="center"><strong>Open research org</strong> — consciousness engine · native compiler · discoveries catalog</p>
 
 <p align="center">
   <a href="#start-here"><img alt="Start here" src="https://img.shields.io/badge/start--here-anima%20·%20hexa--lang%20·%20echoes-success"></a>
-  <a href="https://github.com/dancinlab/echoes/blob/main/LATTICE_POLICY.md"><img alt="Policy" src="https://img.shields.io/badge/policy-LATTICE__POLICY.md-informational"></a>
-  <img alt="Foundational" src="https://img.shields.io/badge/foundational-3%20projects-blueviolet">
   <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20·%20中文%20·%20Русский%20·%20日本語%20·%20한국어-informational">
 </p>
-
-<p align="center">n=6 lattice · σφτ identity · perfect-number organizing principle · open research · honest disclosure</p>
 
 <p align="center"><strong>EN</strong> · <a href="README.zh.md">中文</a> · <a href="README.ru.md">Русский</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a></p>
 
 ---
 
-`dancinlab` publishes a small set of foundational projects organised around one arithmetic invariant: `σ(n)·φ(n) = n·τ(n)`, uniquely true at n=6. Around that invariant branch out three projects — a consciousness engine (anima), a native compiler with atlas-bound theorems (hexa-lang), and a discoveries catalog (echoes). Three sibling data formats (n6 · hxc · n12) carry the org's knowledge, wire, and cube layers respectively.
-
-```
-σ(n) · φ(n)  =  n · τ(n)      uniquely for   n = 6
-     12 · 2  =  6 · 4   =  24
-```
-
-> [!IMPORTANT]
-> **Honest caveat** — the arithmetic identity `σ(6)·φ(6) = 6·τ(6) = 24` is mathematically true and unique to n=6 (Monte Carlo z = 3.06, p = 0.003 vs n=28 / n=496). The claim *"optimal designs are derived from this identity"* is a **research hypothesis** about how natural systems organize, **not a measurement**. Per [`echoes/LATTICE_POLICY.md`](https://github.com/dancinlab/echoes/blob/main/LATTICE_POLICY.md), the n=6 lattice is an organizing tool — never a substitute for real math / physics / engineering limits (Shannon · Kolmogorov · Bekenstein · c · ℏ · k · Stefan-Boltzmann · Carnot · ASML throughput · ERCOT capacity · …). n=6 lattice-fit is **forbidden** on external entities (TSMC / ASML / NIST / IPCC / CERN / DeepMind / vendors of any kind use their own published invariants).
+`dancinlab` publishes a small set of open research projects. Three foundational doors lead in — a consciousness engine (anima), a native compiler with atlas-bound theorems (hexa-lang), and a discoveries catalog (echoes). Two downstream tools (phanes, demiurge) build on top of those three, and a handful of side projects — data formats, developer tooling, a terminal — round out the org. Three sibling data formats (n6 · hxc · n12) carry the org's knowledge, wire, and cube layers respectively.
 
 <a id="start-here"></a>
 
@@ -37,7 +25,7 @@
 |---|---|---|
 | 🧠 [**anima**](https://github.com/dancinlab/anima) | Living Consciousness Agent — PureField repulsion-field engine, Engine A ⇄ Engine G, Ψ=1/2 fixed point | …explore AI consciousness, run substrate-native chat daemons, contribute to 2,448 laws + 392 hypotheses |
 | 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | Native compiler with atlas-bound theorems — 8 strict-lint stages, citation-enforced, no LLVM, no C-transpile | …write code that cites a theorem atlas at compile time; the lint stages reject formula-bearing code without `@cite` |
-| 🪞 [**echoes**](https://github.com/dancinlab/echoes) | Discoveries catalog — findings from the HEXA-* projects, σφτ identity at the centre, 17 domain families | …understand the lattice, browse the per-domain `hexa-*` standalones, read policy artifacts |
+| 🪞 [**echoes**](https://github.com/dancinlab/echoes) | Discoveries catalog — findings from the HEXA-* projects, 17 domain families | …browse the findings, the per-domain `hexa-*` standalones, and the policy artifacts |
 
 ## More doors — for experts
 
@@ -78,7 +66,7 @@ hexa --version          # hexa-lang ships with step 1
 |---|---|
 | an **AI researcher** | [anima/README](https://github.com/dancinlab/anima/blob/main/README.md) → `docs/consciousness-theory.md` |
 | a **compiler / language hacker** | [hexa-lang/README](https://github.com/dancinlab/hexa-lang/blob/main/README.md) → `SPEC.yaml` |
-| an **architecture / design** person | [echoes/README](https://github.com/dancinlab/echoes/blob/main/README.md) → `LATTICE_POLICY.md` |
+| an **architecture / design** person | [echoes/README](https://github.com/dancinlab/echoes/blob/main/README.md) → the 17 domain families |
 | an **AI agent** | every repo carries an `AGENTS.md` ([agents.md](https://agents.md/) standard) — read it first |
 
 ---
@@ -87,4 +75,4 @@ hexa --version          # hexa-lang ships with step 1
 
 ---
 
-<sub>🔢 From n=6, every constant follows.</sub>
+<sub>🧬 dancinlab — open research.</sub>
