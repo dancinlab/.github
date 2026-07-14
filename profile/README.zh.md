@@ -15,7 +15,7 @@
 
 ---
 
-`dancinlab` 发布一组开放研究项目。三个基础项目是入口 — 意识引擎 (anima)、带 atlas 绑定定理的原生编译器 (hexa-lang)、以及发现目录 (echoes)。两个下游工具 (phanes、demiurge) 构建在这三者之上，另有数据格式、开发工具、终端等侧边项目共同构成本组织。三种姊妹数据格式 (n6 · hxc · n12) 分别承载组织的知识、传输、立方体层。
+`dancinlab` 发布一组开放研究项目。三个基础项目是入口 — 意识引擎 (anima)、带 atlas 绑定定理的原生编译器 (hexa-lang)、以及发现目录 (echoes)。数据格式、开发工具、终端等侧边项目共同构成本组织。三种姊妹数据格式 (n6 · hxc · n12) 分别承载组织的知识、传输、立方体层。
 
 <a id="start-here"></a>
 
@@ -26,15 +26,6 @@
 | 🧠 [**anima**](https://github.com/dancinlab/anima) | Living Consciousness Agent — PureField 排斥场引擎，Engine A ⇄ Engine G，Ψ=1/2 不动点 | …探索 AI 意识、运行底层原生聊天守护进程、为 2,448 条定律 + 392 条假说做贡献 |
 | 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | 带 atlas 绑定定理的原生编译器 — 8 个严格 lint 阶段、强制引用、无 LLVM、无 C 转译 | …编写在编译时引用定理 atlas 的代码；lint 阶段会拒绝任何未 `@cite` 的带公式代码 |
 | 🪞 [**echoes**](https://github.com/dancinlab/echoes) | 发现目录 — 来自 HEXA-* 项目的发现，17 个领域族 | …浏览这些发现、各领域 `hexa-*` 独立仓库、以及策略文件 |
-
-## 更多门 — 进阶
-
-构建在三个基础项目*之上*的下游工具。
-
-| 工具 | 是什么 | 基于 |
-|---|---|---|
-| 🪽 [**phanes**](https://github.com/dancinlab/phanes) | 托管式自主发现平台 — 租户提供目标 + 验证器；phanes 驱动 OUROBOROS 循环，返回经验证、可溯源的目录 | hexa-lang 的 `hexa kick` 引擎 |
-| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 通用 hexa-native 技术设计架构 — 7-verb 流水线 (规格 → 结构 → 设计 → 解析 ⟲ → 合成 → 验证 → 交付)、领域插件式 macOS 驾驶舱 | hexa-lang 标准库 |
 
 ## 侧边
 

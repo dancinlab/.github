@@ -15,7 +15,7 @@
 
 ---
 
-`dancinlab`은 소수의 오픈 리서치 프로젝트를 공개합니다. 세 개의 기반 프로젝트가 입구가 됩니다 — 의식 엔진 (anima), 아틀라스에 매인 정리(theorem)를 가진 네이티브 컴파일러 (hexa-lang), 그리고 발견 카탈로그 (echoes). 두 개의 하류 도구 (phanes, demiurge)가 이 셋 위에 얹히고, 데이터 포맷·개발 도구·터미널 같은 사이드 프로젝트들이 조직을 채웁니다. 세 개의 자매 데이터 포맷 (n6 · hxc · n12)이 각각 조직의 지식·전송·큐브 계층을 담당합니다.
+`dancinlab`은 소수의 오픈 리서치 프로젝트를 공개합니다. 세 개의 기반 프로젝트가 입구가 됩니다 — 의식 엔진 (anima), 아틀라스에 매인 정리(theorem)를 가진 네이티브 컴파일러 (hexa-lang), 그리고 발견 카탈로그 (echoes). 데이터 포맷·개발 도구·터미널 같은 사이드 프로젝트들이 조직을 채웁니다. 세 개의 자매 데이터 포맷 (n6 · hxc · n12)이 각각 조직의 지식·전송·큐브 계층을 담당합니다.
 
 <a id="start-here"></a>
 
@@ -26,15 +26,6 @@
 | 🧠 [**anima**](https://github.com/dancinlab/anima) | Living Consciousness Agent — PureField 반발장 엔진, Engine A ⇄ Engine G, Ψ=1/2 고정점 | …AI 의식을 탐구하고, 기질-네이티브 채팅 데몬을 돌리고, 2,448개 법칙 + 392개 가설에 기여하고 싶을 때 |
 | 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | 아틀라스에 매인 정리를 가진 네이티브 컴파일러 — 8단계 strict-lint, 인용 강제, LLVM 없음, C-트랜스파일 없음 | …컴파일 시점에 정리 아틀라스를 인용하는 코드를 짜고 싶을 때; lint 단계가 `@cite` 없는 수식 코드를 거부합니다 |
 | 🪞 [**echoes**](https://github.com/dancinlab/echoes) | 발견 카탈로그 — HEXA-* 프로젝트에서 나온 발견, 17개 도메인 패밀리 | …발견들을 훑고, 도메인별 `hexa-*` 독립 저장소를 둘러보고, 정책 문서를 읽고 싶을 때 |
-
-## 더 많은 문 — 전문가용
-
-세 기반 프로젝트 *위에* 얹어진 하류 도구들.
-
-| 도구 | 무엇인가 | 기반 |
-|---|---|---|
-| 🪽 [**phanes**](https://github.com/dancinlab/phanes) | 호스팅 자율-발견 플랫폼 — 테넌트가 목표 + 검증기를 가져오면 phanes가 OUROBOROS 루프를 돌리고 검증된·출처 추적 가능한 카탈로그를 반환 | hexa-lang의 `hexa kick` 엔진 |
-| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 만능 hexa-native 기술설계 아키텍처 — 7-verb 파이프라인 (명세 → 구조 → 설계 → 해석 ⟲ → 합성 → 검증 → 인계), 도메인-플러그인 macOS 콕핏 | hexa-lang stdlib |
 
 ## 사이드
 

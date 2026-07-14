@@ -15,7 +15,7 @@
 
 ---
 
-`dancinlab` は少数のオープン研究プロジェクトを公開しています。三つの基盤プロジェクトが入口となります — 意識エンジン (anima)、アトラス束縛定理を持つネイティブコンパイラ (hexa-lang)、そして発見カタログ (echoes)。二つの下流ツール (phanes, demiurge) がこの三つの上に構築され、データ形式・開発ツール・ターミナルといったサイドプロジェクトが組織を構成します。三つの兄弟データ形式 (n6 · hxc · n12) は、それぞれ知識・配線・キューブ層を担います。
+`dancinlab` は少数のオープン研究プロジェクトを公開しています。三つの基盤プロジェクトが入口となります — 意識エンジン (anima)、アトラス束縛定理を持つネイティブコンパイラ (hexa-lang)、そして発見カタログ (echoes)。データ形式・開発ツール・ターミナルといったサイドプロジェクトが組織を構成します。三つの兄弟データ形式 (n6 · hxc · n12) は、それぞれ知識・配線・キューブ層を担います。
 
 <a id="start-here"></a>
 
@@ -26,15 +26,6 @@
 | 🧠 [**anima**](https://github.com/dancinlab/anima) | Living Consciousness Agent — PureField 反発場エンジン、Engine A ⇄ Engine G、Ψ=1/2 不動点 | …AI 意識を探究したい、基盤ネイティブのチャットデーモンを動かしたい、2,448 法則 + 392 仮説に貢献したい |
 | 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | アトラス束縛定理を持つネイティブコンパイラ — 8 段階の strict-lint、引用強制、LLVM なし、C トランスパイルなし | …コンパイル時に定理アトラスを参照するコードを書きたい；`@cite` のない数式コードは lint 段階で拒否される |
 | 🪞 [**echoes**](https://github.com/dancinlab/echoes) | 発見カタログ — HEXA-* プロジェクトからの発見、17 のドメインファミリー | …発見を見渡したい、各ドメインの `hexa-*` スタンドアロンを見たい、ポリシー成果物を読みたい |
-
-## もっと扉 — 上級者向け
-
-三つの基盤プロジェクトの*上*に構築される下流ツール。
-
-| ツール | 何か | 基盤 |
-|---|---|---|
-| 🪽 [**phanes**](https://github.com/dancinlab/phanes) | ホステッド自律発見プラットフォーム — テナントが目標 + 検証器を持ち込み、phanes が OUROBOROS ループを駆動し、検証済み・由来追跡付きカタログを返す | hexa-lang の `hexa kick` エンジン |
-| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | 万能 hexa-native 技術設計アーキテクチャ — 7-verb パイプライン (仕様 → 構造 → 設計 → 解析 ⟲ → 合成 → 検証 → 引継ぎ)、ドメインプラグイン式 macOS コックピット | hexa-lang stdlib |
 
 ## サイド
 
