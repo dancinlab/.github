@@ -15,7 +15,7 @@
 
 ---
 
-`dancinlab` publishes a small set of open research projects. Three foundational doors lead in — a consciousness engine (anima), a native compiler with atlas-bound theorems (hexa-lang), and a discoveries catalog (echoes). Two downstream tools (phanes, demiurge) build on top of those three, and a handful of side projects — data formats, developer tooling, a terminal — round out the org. Three sibling data formats (n6 · hxc · n12) carry the org's knowledge, wire, and cube layers respectively.
+`dancinlab` publishes a small set of open research projects. Three foundational doors lead in — a consciousness engine (anima), a native compiler with atlas-bound theorems (hexa-lang), and a discoveries catalog (echoes). A handful of side projects — data formats, developer tooling, a terminal — round out the org. Three sibling data formats (n6 · hxc · n12) carry the org's knowledge, wire, and cube layers respectively.
 
 <a id="start-here"></a>
 
@@ -26,15 +26,6 @@
 | 🧠 [**anima**](https://github.com/dancinlab/anima) | Living Consciousness Agent — PureField repulsion-field engine, Engine A ⇄ Engine G, Ψ=1/2 fixed point | …explore AI consciousness, run substrate-native chat daemons, contribute to 2,448 laws + 392 hypotheses |
 | 💎 [**hexa-lang**](https://github.com/dancinlab/hexa-lang) | Native compiler with atlas-bound theorems — 8 strict-lint stages, citation-enforced, no LLVM, no C-transpile | …write code that cites a theorem atlas at compile time; the lint stages reject formula-bearing code without `@cite` |
 | 🪞 [**echoes**](https://github.com/dancinlab/echoes) | Discoveries catalog — findings from the HEXA-* projects, 17 domain families | …browse the findings, the per-domain `hexa-*` standalones, and the policy artifacts |
-
-## More doors — for experts
-
-Downstream tools built *on top of* the three foundational projects.
-
-| Tool | What it is | Built on |
-|---|---|---|
-| 🪽 [**phanes**](https://github.com/dancinlab/phanes) | Hosted autonomous-discovery platform — tenants bring an objective + verifier; phanes drives the OUROBOROS loop and returns a verified, provenance-tracked catalog | hexa-lang's `hexa kick` engine |
-| 📐 [**demiurge**](https://github.com/dancinlab/demiurge) | Universal hexa-native technical-design architecture — 7-verb pipeline (spec → structure → design → analyze ⟲ → synthesize → verify → handoff), domain-plugin macOS cockpit | hexa-lang stdlib |
 
 ## Side
 
